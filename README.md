@@ -5,4 +5,4 @@
 Ejercicios realizados por sesión de clases: 
 
 
-[Sesion Uno](/sesion1/README.md)
+[Sesion Uno](/sesion1/readme.md)
